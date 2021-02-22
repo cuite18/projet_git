@@ -30,7 +30,7 @@
             </div>
         </nav>
 
-        <div class="container">
+        <div class="container" style="min-height: 80vh;">
 
             <h1 class="display-4 text-center my-5">Mon Projet GIT</h1>
 
